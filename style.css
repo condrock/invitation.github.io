@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.header {
+    font-family: 'Anton', sans-serif;
+    margin-top: 15px;
+}
+
+.header p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-text {
+    font-weight: bold;
+}
+
+.profil {
+    text-align: center;
+}
+
+.bi-person-circle {
+    font-size: 70px;
+}
+
+.icon {
+    color: #0275d8;
+}
